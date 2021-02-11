@@ -31,7 +31,7 @@ The Transformation of the UNF Surf Rover to a RC Car
   * Needs to be stepped down to 12V for MCU
   
 * We need to design a Solid state relay On-Off switch board for the actuator
-  * Requires input from arduino and turns on the valves
+  * Requires input from MCU and turns on the valves
 
 ## An image of the current rover
 ![Surf Rover](https://github.com/UNF-IEEE-Student-Branch/RC-Surf-Rover/blob/main/media/images/IMG_3117.jpg)
