@@ -24,6 +24,14 @@ The Transformation of the UNF Surf Rover to a RC Car
   * Module 2 is installed on the remote controller for the surf rover
     - Joins the Zigbee Mesh Network
     - Sends serial data received from a Module and sends the data over Radio
+    
+# Power Distribution
+* 24VDC Battery
+  * Required for driving the actuating valves
+  * Needs to be stepped down to 12V for MCU
+  
+* We need to design a Solid state relay On-Off switch board for the actuator
+  * Requires input from arduino and turns on the valves
 
 ## An image of the current rover
 ![Surf Rover](https://github.com/UNF-IEEE-Student-Branch/RC-Surf-Rover/blob/main/media/images/IMG_3117.jpg)
