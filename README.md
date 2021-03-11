@@ -25,6 +25,8 @@ The Transformation of the UNF Surf Rover to a RC Car
     - Joins the Zigbee Mesh Network
     - Sends serial data received from a Module and sends the data over Radio
     
+* Possible GPS configuration?????
+    
 # Power Distribution
 * 24VDC Battery
   * Required for driving the actuating valves
