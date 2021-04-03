@@ -25,6 +25,10 @@ The Transformation of the UNF Surf Rover to a RC Car
     - Joins the Zigbee Mesh Network
     - Sends serial data received from a Module and sends the data over Radio
     
+* Remote Controller
+  * Wii Nunchuck remote w/ I2C attachment breakout board
+  * Arduino with attached Xbee Radio
+  
 * Possible GPS configuration?????
     
 # Power Distribution
