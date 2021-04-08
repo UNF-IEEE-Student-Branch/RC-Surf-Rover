@@ -8,12 +8,14 @@ The Transformation of the UNF Surf Rover to a RC Car
 ## Main Controls:
 * Arduino Mega for the MCU
   * Handles Control over steering module
+    * Sends PWM Signal to Linear Actuators through GPIO analog pins 9 and 11
+  * Handles Control over Sabertooth Motor Speed through Serial
   * Handles all Logic Level shifting
   * Creates and maintains Zigbee radio mesh network
   * Processing all optional sensor data of the Surf Rover
   
 * Sabertooth Dual Motor Driver
-  * Handles Surf Rover Steering
+  * Handles Surf Rover Speed Control
   * Receives control data from the MCU
   
 * Xbee Radio Module
