@@ -32,13 +32,6 @@ The Transformation of the UNF Surf Rover to a RC Car
 * Possible GPS configuration?????
     
 # Power Distribution
-* 12VDC Li-Po Battery
-  * 24VDC Required for driving the actuating valves
-     * Needs to be stepped up using an amplifier
-  * Needs to be regulated to an unrippled 12V for MCU
-  
-* ~~We need to design a Solid state relay On-Off switch board for the actuator~~
-  * ~~Requires input from MCU and turns on the valves~~
 ![Power Distribution](https://github.com/UNF-IEEE-Student-Branch/RC-Surf-Rover/blob/main/media/images/Power_Distribution.jpg)
 
 ## An image of the current rover
