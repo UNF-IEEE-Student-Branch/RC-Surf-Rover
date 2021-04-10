@@ -1,1 +1,1 @@
-# This is were all revisions of the code will be stored
+# This is where all revisions of the code will be stored
