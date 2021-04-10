@@ -1,4 +1,4 @@
-Collection of datasheets for the Linear Actuators and the Motors
+# Collection of datasheets for the Linear Actuators and the Motors
 
 The Actuators are L12-100-100-12-P
 * 100mm Length
