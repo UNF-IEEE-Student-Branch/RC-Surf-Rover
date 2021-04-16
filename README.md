@@ -12,6 +12,8 @@ The Transformation of the UNF Surf Rover to a RC Car
   * Handles Control over Sabertooth Motor Speed through Serial
   * Handles all Logic Level shifting
   * Creates and maintains Zigbee radio mesh network
+    * ### Make sure you switch the Xbee shield to "USB" for programming the Arduino and "Micro" for Radio Mode
+    * ### Failure to do so will destroy the Arduino Mega and Xbee Radio
   * Processing all optional sensor data of the Surf Rover
   
 * Sabertooth Dual Motor Driver
@@ -31,7 +33,7 @@ The Transformation of the UNF Surf Rover to a RC Car
   * Wii Nunchuck remote w/ I2C attachment breakout board
   * Arduino with attached Xbee Radio
   * ### Make sure you switch the Xbee shield to "USB" for programming the Arduino and "Micro" for Radio Mode
-  * ### Failure to do so will destroy the Arduino Mega and Xbee Radio
+  * ### Failure to do so will destroy the Arduino Uno and Xbee Radio
   
 * Possible GPS configuration?????
     
