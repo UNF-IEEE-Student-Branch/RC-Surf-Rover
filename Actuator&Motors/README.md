@@ -14,6 +14,7 @@ The Actuators are L12-100-100-12-P
   * Negative terminal is GND
   * Positive terminal is 12V
   * Other Wire(VC terminal) is PWM Position Control
+    * Pins 4 and 13 of Mega produce 980Hz PWM pulse needed, all other analog pins are 490Hz
 
 The GearMotor is an AME-206-1004
 * 6Nm Stall Torque/ 1.6Nm Nominal
