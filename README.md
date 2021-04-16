@@ -30,6 +30,8 @@ The Transformation of the UNF Surf Rover to a RC Car
 * Remote Controller
   * Wii Nunchuck remote w/ I2C attachment breakout board
   * Arduino with attached Xbee Radio
+  * ### Make sure you switch the Xbee shield to "USB" for programming the Arduino and "Micro" for Radio Mode
+  * ### Failure to do so will destroy the Arduino Mega and Xbee Radio
   
 * Possible GPS configuration?????
     
