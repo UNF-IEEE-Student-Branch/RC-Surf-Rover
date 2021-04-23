@@ -25,9 +25,11 @@ The Transformation of the UNF Surf Rover to a RC Car
   * Module 1 is installed via a Arduino Shield on the MCU located on the surf rover
     - Creates the Zigbee Mesh Network
     - Processes serial data received from Radio and directly sends the data to the Mega's UART pins 
+    _PAN ID: "3333"  DH: "0000" DL: "2345" CH: "C" MY: "1234" 
   * Module 2 is installed on the remote controller for the surf rover
     - Joins the Zigbee Mesh Network
     - Sends serial data received from a Module and sends the data over Radio
+    _PAN ID: "3333"  DH: "0000" DL: "1234" CH: "C" MY: "2345"  
     
 * Remote Controller
   * Wii Nunchuck remote w/ I2C attachment breakout board
