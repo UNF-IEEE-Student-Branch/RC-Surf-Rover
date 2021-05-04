@@ -2,8 +2,11 @@
 The Transformation of the UNF Surf Rover to a RC Car
 
 ## How To Get Started:
-1. View the previous team's presentation in the main file directory
-2. View the datasheets and schematics in the Previous team file folder
+1. ~View the previous team's presentation in the main file directory~
+2. ~View the datasheets and schematics in the Previous team file folder~
+3. Review Power Distribution flowchart
+4. Skim over datasheets to understand each module
+5. Review and debug code
 
 ## Main Controls:
 * Arduino Mega for the MCU
